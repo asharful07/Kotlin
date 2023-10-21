@@ -1,3 +1,5 @@
+
+// Multiply and add the two numbers using construtor
 package constructor
 class Calculator(a: Int, b: Int) {
     var num1 = a
